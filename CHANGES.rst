@@ -1,10 +1,11 @@
 Changelog
 =========
 
-4.1.1.2 (unreleased)
---------------------
+4.1.2 (unreleased)
+------------------
 
-- Nothing changed yet.
+- Upgrade lazysizes to v4.1.2.
+  [thet]
 
 
 4.1.1.1 (2018-09-10)
